@@ -1,0 +1,130 @@
+h1 {
+    font-family: Aniron;
+    text-align: center;
+}
+
+.topRow {
+    margin-top: 16vh;
+}
+
+.middleRow {
+    margin-top: 7vh;
+}
+
+.bottowRow {
+    margin-top: 7vh;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+
+.orangeRing {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 3vw;
+    height: 3vw;
+    border: solid;
+    border-width: 0.24vw;
+    border-color: #ff6200;
+    box-shadow: 0.12vw 0.12vw 0.24vw #cc4e00;
+}
+
+.yellowRing {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 11vw;
+    height: 11vw;
+    border: solid;
+    border-width: 0.88vw;
+    border-color: #FCCA04;
+    box-shadow: 0.44vw 0.44vw 0.88vw #cba202;
+}
+
+.greyRing1 {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 1.992vw;
+    height: 1.992vw;
+    border: solid;
+    border-width: 0.15936vw;
+    border-color: #343434;
+    box-shadow: 0.07968vw 0.07968vw 0.15936vw #1b1b1b;
+    position: relative;
+    right: 3.984vw;
+}
+
+.greyRing2 {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 2.3904vw;
+    height: 2.3904vw;
+    border: solid;
+    border-width: 0.191232vw;
+    border-color: #343434;
+    box-shadow: 0.095616vw 0.095616vw 0.191232vw #1b1b1b;
+    position: relative;
+    right: 4.7808vw;
+}
+
+.greyRing3 {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 2.86848vw;
+    height: 2.86848vw;
+    border: solid;
+    border-width: 0.2294784vw;
+    border-color: #343434;
+    box-shadow: 0.1147392vw 0.1147392vw 0.2294784vw #1b1b1b;
+    position: relative;
+    right: 5.73696vw;
+}
+
+.greyRing4 {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 3.442176vw;
+    height: 3.442176vw;
+    border: solid;
+    border-width: 0.27537408vw;
+    border-color: #343434;
+    box-shadow: 0.13768704vw 0.13768704vw 0.27537408vw #1b1b1b;
+    position: relative;
+    right: 6.884352vw;
+}
+
+.greyRing5 {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 4.1306112vw;
+    height: 4.1306112vw;
+    border: solid;
+    border-width: 0.330448896vw;
+    border-color: #343434;
+    box-shadow: 0.165224448vw 0.165224448vw 0.330448896vw #1b1b1b;
+    position: relative;
+    right: 8.2612224vw;
+}
+
+.greyRing6 {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 4.95673344vw;
+    height: 4.95673344vw;
+    border: solid;
+    border-width: 0.3965386752vw;
+    border-color: #343434;
+    box-shadow: 0.1982693376vw 0.1982693376vw 0.3965386752vw #1b1b1b;
+    position: relative;
+    right: 9.91346688vw;
+}
